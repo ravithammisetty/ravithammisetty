@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ravithammisetty
+- 👋 Hi, I’m @ravithammisetti
 - 👀 I’m interested in ... web development
 - 🌱 I’m currently learning ...java fullstack
 - 💞️ I’m looking to collaborate on ... 
